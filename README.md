@@ -1,6 +1,6 @@
 Plan:
 
-Step 1: (April 13th) 
+Step 1: (Feb 13th) 
   - Data splitting pipeline --> Alex
   - Model evaluation functions (metrics + graphs) --> Mahmoud
   - Build clean image classifier using CIFAR-10 dataset (e.g., ResNet-18 or CNN) --> Jas
