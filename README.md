@@ -10,7 +10,6 @@ We train a backdoor-poisoned image classifier on CIFAR-10, then apply two indepe
 ```
 Cifar-10-Clean-Model.ipynb                          # Baseline clean ResNet-18 (~84–85% accuracy)
 Full_Poison_Model_Neural_Clense_Deep_Inspect.ipynb  # Poisoning + Neural Cleanse + Deep Inspect
-Poissoned_Alex/                                     # Standalone poisoning experiments
 Poissoned_models/                                   # Saved poisoned model checkpoints (.pth)
 Archive/                                            # Older / outdated notebooks
 ```
